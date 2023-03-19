@@ -64,10 +64,11 @@ a {
   color: #eece1a;
 }
 main {
-  padding: min(4rem, 4vw);
+  padding: min(4rem, 6vw);
   min-height: calc(100vh - 60px);
   text-align: center;
   background-color: rgba(68, 68, 68, 0.8);
+  padding-top: 4rem;
 }
 main .icons {
   margin-top: 1rem;
